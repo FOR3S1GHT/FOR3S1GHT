@@ -7,12 +7,12 @@
 </div>
 
 ### 💫 About Me
-- 🔭 Currently working on: [name of your Linux distro / OS project]
-- 👯 Looking to collaborate on: [e.g. open-source dev tools, systems programming]
-- 🤝 Looking for help with: [e.g. kernel-level debugging, distro packaging]
-- 🌱 Currently learning: [e.g. Rust, OS internals]
-- 💬 Ask me about: [your strongest topics — e.g. React, Blender, Rust]
-- ⚡ Fun fact: [one real, specific fact — not generic]
+- 🔭 Currently working on: F0R3S1GHT
+- 👯 Looking to collaborate on: Website Development
+- 🤝 Looking for help with: FullStack
+- 🌱 Currently learning: RUST
+- 💬 Ask me about: Figma
+- ⚡ Fun fact: I like watches
 
 <div align="center">
 
