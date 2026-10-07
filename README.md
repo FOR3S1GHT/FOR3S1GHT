@@ -13,7 +13,7 @@
 </div>
 
 ---
-
+<div align="center">
 ## 💫 About Me
 
 | | |
@@ -24,7 +24,7 @@
 | 🤝 **Need help with** | Full-stack |
 | 💬 **Ask me about** | Figma |
 | ⚡ **Fun fact** | I like watches |
-
+</div>
 ---
 
 <div align="center">
